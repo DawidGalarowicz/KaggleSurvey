@@ -1,6 +1,6 @@
 # Kaggle's ML and DS Survey 2019 - My Analysis
 
-This repository contains a notebook that I have created to analyse results of Kaggle's Machine Learning and Data Science Survey from 2019. The data can be found [here](https://www.kaggle.com/c/kaggle-survey-2019).
+This repository contains a notebook that I have created to analyse results of Kaggle's Machine Learning and Data Science Survey from 2019. The data can be found [here](https://www.kaggle.com/c/kaggle-survey-2019). I have also published a blog post on Medium outlining my conclusions which you can access by clicking [here](https://medium.com/@dawidgalarowicz/who-has-time-for-kaggle-challenges-63dbb0b0a757).
 
 ## Table of Contents  
 [Installation](#installation)  
